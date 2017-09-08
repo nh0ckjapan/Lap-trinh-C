@@ -45,7 +45,7 @@ int main() {
             //hien thi ra man hinh thong bao voi dieu kien tuong ung
             }
             else{
-                printf("ket qua la: %i chia %i = %i", a, b, a / b);
+                printf("ket qua la: %i chia %i = %i\n", a, b, a / b);
             //tao thao tac cho so lieu nhap vao khac voi dieu kien tren
             }
             break;
